@@ -1,2 +1,24 @@
-# mystical_diamond
-Welcome to Mystical Diamond, where elegance meets craftsmanship. Founded in 2024, we are dedicated to bringing you the finest diamonds and exquisite jewelry that celebrate life’s precious moments. Our journey began with a passion for gemstones and a vision to offer exceptional quality and timeless designs to discerning customers.
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
